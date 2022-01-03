@@ -8,12 +8,12 @@
 <br />
 
 - 🌱 I’m currently learning everything
-- 🔍 I'm curious driven and not afraid of taking on new challenges
+- 🔍 I'm curious driven and not afraid to take on new challenges.
 - 📄 Always interested in new developments!
 
 ### Connect with me:
 
-[<img align="left" alt="nachojkn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nachojkn | Twitter" width="22px" src="http://www.w3.org/2000/svg" />][twitter]
 [<img align="left" alt="nachojkn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nachojkn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 

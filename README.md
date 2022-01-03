@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img class="svg-to-cian" style="fill: #4BFFFF"> align="left" alt="nachojkn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img class="svg-to-cian" style="fill:{#4BFFFF}"> align="left" alt="nachojkn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img class="svg-to-grey" align="left" alt="nachojkn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img class="svg-to-purple" align="left" alt="nachojkn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Conceptos básicos — Bitcoin](https://nachojkn.medium.com/conceptos-b%C3%A1sicos-bitcoin-5ee95d62fb33?source=rss-1d7488818b40------2)
 - [Blockchain Legos](https://nachojkn.medium.com/blockchain-legos-d39444c04fd1?source=rss-1d7488818b40------2)
 - [How NFTs will change the world](https://blog.personalitynft.com/how-nfts-will-change-the-world-ade792f9a29b?source=rss-1d7488818b40------2)

@@ -40,8 +40,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/
+- [Conceptos básicos — Bitcoin](https://nachojkn.medium.com/conceptos-b%C3%A1sicos-bitcoin-5ee95d62fb33?source=rss-1d7488818b40------2)
+- [Blockchain Legos](https://nachojkn.medium.com/blockchain-legos-d39444c04fd1?source=rss-1d7488818b40------2)
+- [How NFTs will change the world](https://blog.personalitynft.com/how-nfts-will-change-the-world-ade792f9a29b?source=rss-1d7488818b40------2)
+- [The start of something new](https://nachojkn.medium.com/the-start-of-something-new-8a32e714576?source=rss-1d7488818b40------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nachojkn.medium.com)

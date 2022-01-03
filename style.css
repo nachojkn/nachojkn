@@ -1,0 +1,12 @@
+.svg-to-cian {
+	filter: invert(83%) sepia(59%) saturate(1329%) hue-rotate(108deg)
+		brightness(99%) contrast(105%);
+}
+.svg-to-purple {
+	filter: invert(15%) sepia(57%) saturate(6050%) hue-rotate(278deg)
+		brightness(115%) contrast(134%);
+}
+.svg-to-grey {
+	filter: invert(73%) sepia(0%) saturate(2463%) hue-rotate(349deg)
+		brightness(88%) contrast(71%);
+}

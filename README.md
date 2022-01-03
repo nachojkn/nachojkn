@@ -1,7 +1,12 @@
+<link href:"./style.css" rel="stylesheet"></link>
+
 ### Hello there, I'm Nacho - aka nachojkn on [Twitter][twitter] and [Medium][medium] 👋
 
-[![Medium](https://img.shields.io/badge/-Follow%20%40nachojkn%20on%20Medium-%230F3B54?logo=medium&style=for-the-badge&link=https://nachojkn.medium.com/)](https://nachojkn.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nachojkn?color=%230fd9e0&logo=nachojkn%20Twitter&style=for-the-badge)](https://twitter.com/nachojkn?ref_src=twsrc%5Etfw)
+
+<br />
+
+[![Medium](https://img.shields.io/badge/-Follow%20%40nachojkn%20on%20Medium-%230F3B54?logo=medium&style=for-the-badge&link=https://nachojkn.medium.com/)](https://nachojkn.medium.com/)
 
 ## I'm crypto enthusiast who's finding his way to web3!
 
@@ -13,9 +18,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nachojkn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nachojkn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nachojkn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img class="svg-to-cian" align="left" alt="nachojkn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img class="svg-to-grey" align="left" alt="nachojkn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img class="svg-to-purple" align="left" alt="nachojkn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 

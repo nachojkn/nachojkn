@@ -76,7 +76,7 @@
   <img align="left" alt="nachojkn's GitHub Stats" src="https://github-readme-stats.nachojkn.vercel.app/api?username=nachojkn&count_private=true&show_icons=true&hide_border=true&theme=github_dark" />
 
 </details>
-
+<br />
 <details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachojkn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

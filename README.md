@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Conceptos básicos — Bitcoin](https://nachojkn.medium.com/conceptos-b%C3%A1sicos-bitcoin-5ee95d62fb33?source=rss-1d7488818b40------2)
 - [Blockchain Legos](https://nachojkn.medium.com/blockchain-legos-d39444c04fd1?source=rss-1d7488818b40------2)
 - [How NFTs will change the world](https://blog.personalitynft.com/how-nfts-will-change-the-world-ade792f9a29b?source=rss-1d7488818b40------2)
@@ -68,14 +69,14 @@
 <!--END_SECTION:activity-->
 
 </details>
-<!-- VERCEL DEPLOYMENT CREATION BROAKEN
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="nachojkn's GitHub Stats" src="https://github-readme-stats.nachojkn.vercel.app/api?username=nachojkn&count_private=true&show_icons=true&hide_border=true&theme=github_dark" />
 
 </details>
--->
+
 <details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachojkn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic concepts — Bitcoin](https://nachojkn.medium.com/basic-concepts-bitcoin-3866fb15b26e?source=rss-1d7488818b40------2)
 - [Conceptos básicos — Bitcoin](https://nachojkn.medium.com/conceptos-b%C3%A1sicos-bitcoin-5ee95d62fb33?source=rss-1d7488818b40------2)
 - [Blockchain Legos](https://nachojkn.medium.com/blockchain-legos-d39444c04fd1?source=rss-1d7488818b40------2)
 - [How NFTs will change the world](https://blog.personalitynft.com/how-nfts-will-change-the-world-ade792f9a29b?source=rss-1d7488818b40------2)

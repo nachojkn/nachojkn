@@ -2,6 +2,8 @@
 
 ### Hello there, I'm Nacho - aka nachojkn on [Twitter][twitter] and [Medium][medium] 👋
 
+### Check out my React porfolio on IPFS --> nachojkn.eth.link
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/nachojkn?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/nachojkn?ref_src=twsrc%5Etfw)
 
 [![Medium](https://img.shields.io/badge/-Follow%20%40nachojkn%20on%20Medium-%230F3B54?logo=medium&style=for-the-badge&link=https://nachojkn.medium.com/)](https://nachojkn.medium.com/)
@@ -48,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The future on L2s](https://nachojkn.medium.com/the-future-on-l2s-3d04f1199236?source=rss-1d7488818b40------2)
 - [Life thoughts](https://nachojkn.medium.com/life-thoughts-4e611e9d6a13?source=rss-1d7488818b40------2)
 - [Basic concepts — Bitcoin](https://nachojkn.medium.com/basic-concepts-bitcoin-3866fb15b26e?source=rss-1d7488818b40------2)

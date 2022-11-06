@@ -8,13 +8,13 @@
 
 [![Medium](https://img.shields.io/badge/-Follow%20%40nachojkn%20on%20Medium-%230F3B54?logo=medium&style=for-the-badge&link=https://nachojkn.medium.com/)](https://nachojkn.medium.com/)
 
-## I'm crypto enthusiast who's finding his way into web3!
+## I'm a student who's finding his way into web development!
 
 <br />
 
 - 🌱 I’m currently learning Python Back-end focused
 - 🔍 I'm curious driven and not afraid to take on new challenges.
-- 📄 Always interested in new developments!
+- 📄 Always interested in new challenges!
 
 ### Connect with me:
 

@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Nacho - aka nachojkn on [Twitter][twitter] and [Medium][medium] 👋
 
-### Check out my React porfolio on IPFS --> nachojkn.eth.link
+### Check out [my React porfolio](http://nachojkn.epizy.com/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nachojkn?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/nachojkn?ref_src=twsrc%5Etfw)
 

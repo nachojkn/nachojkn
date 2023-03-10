@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning Python Back-end focused
 - 🔍 I'm curious driven and not afraid to take on new challenges.
-- 📄 Always interested in new challenges!
 
 ### Connect with me:
 
